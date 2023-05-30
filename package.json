@@ -1,5 +1,5 @@
 {
-  "name": "@lucasaugustscode/eslint-config",
+  "name": "la-eslint-config",
   "version": "1.0.0",
   "private": false,
   "description": "Basic lint configuration for my JavaScript projects",
