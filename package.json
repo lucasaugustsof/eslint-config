@@ -2,7 +2,7 @@
   "name": "@lucasaugustscode/eslint-config",
   "version": "1.0.0",
   "private": false,
-  "description": "Basic ESLint configuration for my JavaScript projects",
+  "description": "Basic lint configuration for my JavaScript projects",
   "main": "src",
   "license": "MIT",
   "repository": {
