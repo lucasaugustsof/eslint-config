@@ -2,11 +2,11 @@
   "name": "la-eslint-config",
   "version": "1.0.0",
   "private": false,
-  "description": "Basic lint configuration for my JavaScript projects",
+  "description": "Lint rules for building JavaScript projects",
   "main": "src",
   "license": "MIT",
   "repository": {
-    "url": "lucasaugustscode/eslint-config"
+    "url": "lucasaugustsof/eslint-config"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
