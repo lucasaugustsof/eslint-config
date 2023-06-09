@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "private": false,
   "description": "Lint rules for building JavaScript projects",
-  "main": "src",
+  "main": "index.js",
   "license": "MIT",
   "repository": {
     "url": "lucasaugustsof/la-eslint-config"
