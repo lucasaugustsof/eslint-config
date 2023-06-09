@@ -1,6 +1,6 @@
 {
   "name": "la-eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "Lint rules for building JavaScript projects",
   "main": "index.js",
