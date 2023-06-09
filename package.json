@@ -6,7 +6,7 @@
   "main": "src",
   "license": "MIT",
   "repository": {
-    "url": "lucasaugustsof/eslint-config"
+    "url": "lucasaugustsof/la-eslint-config"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
