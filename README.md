@@ -15,9 +15,6 @@ To start using the settings from this repository, follow the steps below:
 ```shell
 npm install @lucasaugustsof/eslint-config -D
 ```
-```shell
-yarn add @lucasaugustsof/eslint-config -D
-```
 
 ## Using the settings
 
