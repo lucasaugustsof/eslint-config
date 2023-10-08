@@ -32,8 +32,8 @@ module.exports = {
 
 ## Available settings
 
-[React](https://react.dev/): Optimized settings for React-based projects.
-[NodeJS](https://nodejs.org/en): Specific settings for NodeJS development.
+- [React](https://react.dev/): Optimized settings for React-based projects.
+- [NodeJS](https://nodejs.org/en): Specific settings for NodeJS development.
 
 ## License
 
