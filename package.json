@@ -8,9 +8,6 @@
   "repository": {
     "url": "lucasaugustsof/eslint-config"
   },
-  "scripts": {
-    "publish": "npm patch && npm publish"
-  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
