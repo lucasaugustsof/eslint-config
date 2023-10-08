@@ -1,12 +1,15 @@
 {
-  "name": "la-eslint-config",
-  "version": "1.0.4",
+  "name": "@lucasaugustsof/eslint-config",
+  "version": "1.0.0",
   "private": false,
   "description": "Lint rules for building JavaScript projects",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "lucasaugustsof/la-eslint-config"
+    "url": "lucasaugustsof/eslint-config"
+  },
+  "scripts": {
+    "publish": "npm patch && npm publish"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
