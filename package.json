@@ -1,8 +1,8 @@
 {
   "name": "@lucasaugustsof/eslint-config",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": false,
-  "description": "Lint rules for building JavaScript projects",
+  "description": "Custom lint settings for personal projects, ensuring code consistency and quality",
   "main": "index.js",
   "license": "MIT",
   "repository": {
