@@ -1,9 +1,13 @@
 module.exports = {
   env: {
-    es2021: true,
+    es2022: true,
     node: true,
   },
-  extends: ['standard', 'plugin:prettier/recommended'],
+  extends: [
+    'eslint:recommended',
+    'plugin:@typescript-eslint/recommended',
+    'plugin:prettier/recommended',
+  ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 'latest',
@@ -16,12 +20,14 @@ module.exports = {
       {
         printWidth: 80,
         tabWidth: 2,
+        semi: false,
         singleQuote: true,
         trailingComma: 'all',
+        bracketSpacing: true,
         arrowParens: 'always',
-        semi: false,
       },
     ],
+    'no-undef': 'off',
   },
   settings: {
     'import/parsers': {
