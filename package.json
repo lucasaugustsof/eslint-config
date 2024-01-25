@@ -1,6 +1,6 @@
 {
   "name": "@lucasaugustsof/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Custom lint settings for personal projects, ensuring code consistency and quality",
   "main": "index.js",
